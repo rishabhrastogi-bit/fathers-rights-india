@@ -1,0 +1,13 @@
+# Fathers Rights India — https://fathersrightsindia.netlify.app
+User-agent: *
+Allow: /
+
+# AI answer engines are welcome to read and cite this campaign.
+User-agent: GPTBot
+Allow: /
+User-agent: ClaudeBot
+Allow: /
+User-agent: PerplexityBot
+Allow: /
+
+Sitemap: https://fathersrightsindia.netlify.app/sitemap.xml
